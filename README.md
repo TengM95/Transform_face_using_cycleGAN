@@ -18,16 +18,16 @@ We named this project as `Transforming Facial Images Using Generative Adversaria
 
 
 # Quick Start
-## Installation
-
-- Clone this repo:
-```bash
-git clone https://github.com/TengM95/Transform_face_using_cycleGAN
-cd Transform_face_using_cycleGAN
-```
-- Install [PyTorch](http://pytorch.org and) 0.4+ and other dependencies (e.g., torchvision, [visdom](https://github.com/facebookresearch/visdom) and [dominate](https://github.com/Knio/dominate)).
-- For pip users, please type the command `pip install -r requirements.txt`.
-- For Conda users, we provide a installation script `./scripts/conda_deps.sh`. Alternatively, you can create a new Conda environment using `conda env create -f environment.yml`.
+<!--## Installation-->
+<!---->
+<!--- Clone this repo:-->
+<!--```bash-->
+<!--git clone https://github.com/TengM95/Transform_face_using_cycleGAN-->
+<!--cd Transform_face_using_cycleGAN-->
+<!--```-->
+<!--- Install [PyTorch](http://pytorch.org and) 0.4+ and other dependencies (e.g., torchvision, [visdom](https://github.com/facebookresearch/visdom) and [dominate](https://github.com/Knio/dominate)).-->
+<!--- For pip users, please type the command `pip install -r requirements.txt`.-->
+<!--- For Conda users, we provide a installation script `./scripts/conda_deps.sh`. Alternatively, you can create a new Conda environment using `conda env create -f environment.yml`.-->
 
 ## CycleGAN train/test
 
