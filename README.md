@@ -36,8 +36,8 @@ python test.py
 <!--- Place the `temp_data` folder in anywhere, make sure to change the `config.dataroot = THE_FULL_PATH_TO_TEMP_DATA`, e.g. `config.dataroot = '/home/yuzhe/temp_data'`.-->
 
 # Results
-<!--![result](Imgs/male.png)-->
-<!--![result](Imgs/female.png)-->
+![result](Imgs/male.png)
+![result](Imgs/female.png)
 
 # Training details
 Details of the loss of two Discriminator and Generator:
