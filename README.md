@@ -5,7 +5,7 @@
 
 
 This repo contains the project of [UCSD ECE 228](http://noiselab.ucsd.edu/ECE228/index.html) 2019SP.
-We named this project as `Transforming Facial Images Using Generative Adversarial Networks` . It can transform facail image between  male and female. 
+We named this project as `Transforming Facial Images Using Generative Adversarial Networks` . It can transform facail image between male and female. 
 
 
 
