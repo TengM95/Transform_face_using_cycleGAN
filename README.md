@@ -30,10 +30,10 @@ python test.py
 
 
 
-# Reproducing test results
-- Download the weight and test data from [Drive](https://drive.google.com/drive/folders/1x9ud9-8_Ri5vWiHCkBQQsuH3DixHpWuT?usp=sharing).
-- Place the `checkpoints` folder in the project root path, e.g. the same folder as `test.py`.
-- Place the `temp_data` folder in anywhere, make sure to change the `config.dataroot = THE_FULL_PATH_TO_TEMP_DATA`, e.g. `config.dataroot = '/home/yuzhe/temp_data'`.
+<!--# Reproducing test results-->
+<!--- Download the weight and test data from [Drive](https://drive.google.com/drive/folders/1x9ud9-8_Ri5vWiHCkBQQsuH3DixHpWuT?usp=sharing).-->
+<!--- Place the `checkpoints` folder in the project root path, e.g. the same folder as `test.py`.-->
+<!--- Place the `temp_data` folder in anywhere, make sure to change the `config.dataroot = THE_FULL_PATH_TO_TEMP_DATA`, e.g. `config.dataroot = '/home/yuzhe/temp_data'`.-->
 
 # Results
 <!--![result](imgs/male.png)-->
