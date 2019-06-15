@@ -1,5 +1,5 @@
 # Transform_face_using_cycleGAN
-<img src='imgs/maleAndFemale.png' align="right" width=384>
+<img src='Imgs/maleAndFemale.png' align="right" width=384>
 
 <br><br><br>
 
@@ -36,16 +36,16 @@ python test.py
 <!--- Place the `temp_data` folder in anywhere, make sure to change the `config.dataroot = THE_FULL_PATH_TO_TEMP_DATA`, e.g. `config.dataroot = '/home/yuzhe/temp_data'`.-->
 
 # Results
-<!--![result](imgs/male.png)-->
-<!--![result](imgs/female.png)-->
+<!--![result](Imgs/male.png)-->
+<!--![result](Imgs/female.png)-->
 
 # Training details
 Details of the loss of two Discriminator and Generator:
-![loss](imgs/Cycleloss.png)
-![loss](imgs/discriminator_loss.png)
-![loss](imgs/Vanilla_discriminator.png)
-![loss](imgs/Generator.png)
-![loss](imgs/Vanilla_Generator.png)
+![loss](Imgs/Cycleloss.png)
+![loss](Imgs/discriminator_loss.png)
+![loss](Imgs/Vanilla_discriminator.png)
+![loss](Imgs/Generator.png)
+![loss](Imgs/Vanilla_Generator.png)
 
 # Acknowledge
 - The code of cycleGAN comes from [Jun-Yan Zhu](http://people.csail.mit.edu/junyanz/)
