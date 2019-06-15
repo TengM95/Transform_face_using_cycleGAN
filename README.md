@@ -31,7 +31,9 @@ cd Transform_face_using_cycleGAN
 
 ## CycleGAN train/test
 
-To train or test a model with downloaded dataset:(path in `DSMAP`)
+The dataset we used is celebrity images from the CelebFaces Attributes Dataset (CelebA).
+
+To train or test a LS-cycleGAN model with downloaded dataset:
 ```bash
 # Training
 python train.py  
