@@ -62,7 +62,7 @@ Details of the loss of two Discriminator and Generator:
 ![loss](Imgs/Vanilla_Generator.png)
 
 # Acknowledge
-- The code of cycleGAN comes from [Jun-Yan Zhu](http://people.csail.mit.edu/junyanz/)
+- The code of cycleGAN is modified from [Jun-Yan Zhu](http://people.csail.mit.edu/junyanz/)
 - Dataloader is written by [Phillip Isola](https://phillipi.github.io/pix2pix/)
 
 # Author
